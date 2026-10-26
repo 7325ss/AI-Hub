@@ -1,0 +1,4 @@
+This is the second document. It contains more advanced topics in Python programming.
+    In this document, we will explore some of the more advanced features of Python, including decorators, generators, and context managers. These features allow developers to write more efficient and maintainable code, and can help to simplify complex programming tasks.
+    Decorators are a powerful feature of Python that allow you to modify the behavior of functions or classes. They can be used to add functionality, enforce rules, or perform other tasks before or after the execution of a function or method.
+    

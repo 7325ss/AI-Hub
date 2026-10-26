@@ -1,0 +1,6 @@
+This is the first document. It contains some sample text for testing.
+
+    Please note that this is a simple example and can be expanded with more content. Create additional documents as needed for your testing purposes.
+    Python is a versatile programming language that can be used for a wide range of applications, including web development, data analysis, artificial intelligence, and more. It is known for its simplicity and readability, making it a popular choice among developers of all skill levels.
+    key features of Python include its extensive standard library, support for multiple programming paradigms, and a large community that contributes to its growth and development. Whether you are a beginner or an experienced programmer, Python offers a wealth of resources and tools to help you achieve your goals.
+    
